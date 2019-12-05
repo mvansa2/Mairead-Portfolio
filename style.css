@@ -1,0 +1,169 @@
+body {
+  font-family: serif;
+
+font-size: 14px;
+
+color: white;
+
+
+}
+
+h1 {
+  color: pink;
+  font-size: 40px;
+   letter-spacing: 0.5em;
+   word-spacing: 1em;
+   line-height: 1.5;
+   text-align: center;
+  border-style: outset;
+  border-width: 20px;
+  border-left-width: 10px;
+  border-right-width: 10px;
+  border-color: cyan;
+}
+ h2 {
+   font-size: 1.5em;
+   background-color: pink;
+   margin: 14px;
+   padding: 12px;
+ }
+li {
+  font-size: 1.5em;
+  background-color: pink;
+  margin: 12px;
+  padding: 10px;
+}
+
+
+
+p {
+  font-size: 30px;
+   color: pink;
+   letter-spacing: 0em;
+   word-spacing: 0em;
+   line-height: 1.5;
+   text-align: left;
+
+ }
+
+ .img {
+
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+   }
+
+.title {
+  Margin-left: 30px;
+	Width: 50%;
+	Border-width: 3px;
+	Border-color: black;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.breathe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.lake {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ink {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.gun {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.life {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cyanotype {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.space{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.web{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.abstract{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flower {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 60%
+}
+
+.fright {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.profile {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.twine {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.twiney {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.twiner {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.twinel {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
