@@ -9,7 +9,7 @@ color: white;
 }
 
 h1 {
-  color: pink;
+  color: #F073C2;
   font-size: 40px;
    letter-spacing: 0.5em;
    word-spacing: 1em;
@@ -23,13 +23,13 @@ h1 {
 }
  h2 {
    font-size: 1.5em;
-   background-color: pink;
+   background-color: #F073C2;
    margin: 14px;
    padding: 12px;
  }
 li {
   font-size: 1.5em;
-  background-color: pink;
+  background-color: #F073C2;
   margin: 12px;
   padding: 10px;
 }
@@ -38,7 +38,7 @@ li {
 
 p {
   font-size: 30px;
-   color: pink;
+   color: #F073C2;
    letter-spacing: 0em;
    word-spacing: 0em;
    line-height: 1.5;
